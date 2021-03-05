@@ -13,7 +13,7 @@
   "author": "Voltha Team",
   "license": "Apache 2.0",
   "dependencies": {
-    "doctoc": "^0.14.1",
+    "doctoc": "^0.15.0",
     "gitbook-cli": "^0.3.6"
   }
 }
